@@ -57,5 +57,20 @@ public class SuperHero extends Hero {
 		}
 	}
 	
-	
+	// PUBLIC METHODS +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	/*
+	 * This method displays the Hero's super powers
+	 */
+	public void showPower(){
+       
+		System.out.println(name + " powers are: ");
+		
+		//print out the Hero Powers through for loop
+		for(int i = 0; i < superPower.length; i++){
+		
+			System.out.println(superPower[i]);
+		}
+		
+		System.out.println("\n**********************\n");
+	}
 }

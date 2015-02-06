@@ -9,7 +9,7 @@ public class Tester {
 		
 		SuperHero karan = new SuperHero("KAY");
 		
-		//karan.showPower();
+		karan.showPower();
 		karan.fight();
 
 	}
