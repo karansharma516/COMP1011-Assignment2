@@ -1,6 +1,7 @@
 /**
  * @author karan
- *
+ *@description: this is the tester class which testes the Hero class and superHero class
+ *@version: 1.4
  */
 public class Tester {
 

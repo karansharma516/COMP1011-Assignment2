@@ -5,7 +5,8 @@ import java.util.*;
  * @author: Karan Sharma
  * @description: Build and Implement the SuperHero class which is the sub class of the Hero superclass
  *               to randomly generate super powers.
- *@version: February 4, 2015
+ *@Date: February 4, 2015
+ *@version: 1.4
  *
  */
 public class SuperHero extends Hero {
